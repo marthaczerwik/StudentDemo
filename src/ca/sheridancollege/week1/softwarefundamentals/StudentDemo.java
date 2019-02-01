@@ -16,6 +16,7 @@ public class StudentDemo
   private String program;
   private String course;
   private String demo;
+  private int i;
 
     public void setProgram(String program) {
         this.program = program;
